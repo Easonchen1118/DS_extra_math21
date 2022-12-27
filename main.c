@@ -1,5 +1,5 @@
 #include <stdio.h>
-//算階乘
+//算階乘https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6915
 int main(){
     int num;
     while (scanf("%d", &num) != EOF) {
